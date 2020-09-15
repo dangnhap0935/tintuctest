@@ -25,6 +25,15 @@ class NewsController extends Controller
 
     	return view('back-end.news.add',['cat'=>$cat]);
     }
+	 public function getdel($id)
+    {       
+        $oder = News::where('id',$id)->first();
+        
+            $oder = News::find($id);
+            $oder->delete();
+            return redirect('admin/news')
+        ->with(['flash_level'=>'result_msg','flash_massage'=>' Đã xoá thành công !']);  
+        }
     public function postadd(AddNewsRequest $rq)
     {
     	$n = new News();
