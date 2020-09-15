@@ -53,7 +53,7 @@ class AuthController extends Controller
      */
     protected function validator(array $data)
     {
-               return view('/admin/home');
+               
 
         return Validator::make($data, [
             'name' => 'required|max:255',
