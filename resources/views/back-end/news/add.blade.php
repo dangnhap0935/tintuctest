@@ -96,7 +96,7 @@
 					      				<script type="text/javascript">
 											var editor = CKEDITOR.replace('txtFull',{
 												language:'vi',
-												filebrowserImageBrowseUrl : '../../public/plugin/ckfinder/ckfinder.html?Type=Images',
+												filebrowserImageBrowseUrl : '../public/plugin/ckfinder/ckfinder.html?Type=Images',
 												filebrowserFlashBrowseUrl : '../../plugin/ckfinder/ckfinder.html?Type=Flash',
 												filebrowserImageUploadUrl : '../../public/plugin/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Images',
 												filebrowserFlashUploadUrl : '../../plugin/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Flash',
