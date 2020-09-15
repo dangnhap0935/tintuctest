@@ -28,15 +28,7 @@
             "app/hv-function/function.php"
         ]
     },
-    "autoload": {
-    "classmap": [
-        "database",
-        "app/Models"
-    ],
-    "psr-4": {
-        "App\\": "app/"
-    }
-},
+    
     "autoload-dev": {
         "classmap": [
             "tests/TestCase.php"
