@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <!-- Google -->
+    <script data-ad-client="ca-pub-8784210033717367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+     <!-- Google -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
