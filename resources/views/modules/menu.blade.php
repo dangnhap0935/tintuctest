@@ -7,7 +7,7 @@
         </div>
       -->
         <div class="banner">
-          <img src="public/images/banner.png" alt="#" border="0"/>
+          <img src="../public/images/banner.png" alt="#" border="0"/>
     
         </div>
       </div>
