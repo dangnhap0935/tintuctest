@@ -30,11 +30,15 @@ Route::get('/{cat}/{id}-{slug}', ['as'  => 'getdetail', 'uses' =>'PagesControlle
 Route::resource('payment', 'PayMentController');
 
 // --------------------------------cac cong viec trong admin (back-end)--------------------------------------- 
+Route::get('dangnhap', function () {
+    
+    return view('/admin/home/news');
+});
 Route::group(['middleware' => 'admin'], function () {
       Route::group(['prefix' => 'admin'], function() {
         
        	Route::get('/home', function() {  
-          return view('/admin/home');
+          
          return view('back-end.home');       	
        });
        // -------------------- quan ly danh muc----------------------
