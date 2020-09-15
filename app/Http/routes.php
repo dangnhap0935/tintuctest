@@ -33,7 +33,8 @@ Route::resource('payment', 'PayMentController');
 Route::group(['middleware' => 'admin'], function () {
       Route::group(['prefix' => 'admin'], function() {
         
-       	Route::get('/home', function() {         
+       	Route::get('/home', function() {  
+          return view('/admin/home');
          return view('back-end.home');       	
        });
        // -------------------- quan ly danh muc----------------------
