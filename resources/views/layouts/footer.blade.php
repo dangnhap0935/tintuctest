@@ -28,6 +28,10 @@
     {{-- validate --}}
     <script src="{!!url('public/js/validate/jquery.validate.min.js')!!}"></script>
     <script src="{!!url('public/js/validate/jquery.validate.js')!!}"></script>
-
+    <!--- google-->
+<amp-auto-ads type="adsense"
+        data-ad-client="ca-pub-8784210033717367">
+</amp-auto-ads>
+<!--- google-->
   </body>
 </html>
