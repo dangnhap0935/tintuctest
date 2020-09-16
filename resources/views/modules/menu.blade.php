@@ -55,7 +55,7 @@
                <a href="{!!url('tin-tuc')!!}" > Tin Tức </a>                    
               </li>   
               <li>
-               <a href="/caro/xo.htm" > Giải Trí </a>                    
+               <a href="../caro/xo.htm" > Giải Trí </a>                    
               </li>  
             </ul>
              <ul class="nav navbar-nav pull-right">
