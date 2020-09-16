@@ -3,7 +3,7 @@
 	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
     <h3 class="panel-title">
       <span class="glyphicon glyphicon-home" style="font-size: 15px;><a href="#" title=""> Home</a></span> 
-      <span class="glyphicon glyphicon-chevron-right" style="font-size: 13px;"></span><a href="#" title=""> Tin Tức </a>
+      <span class="glyphicon glyphicon-chevron-right" style="font-size: 13px;"></span><a href="#" title=""> Kiến thức </a>
       <!--   <span class="glyphicon glyphicon-chevron-right" style="font-size: 11px;"></span> <a href="#" title=""> noi dung con</a> -->
     </h3>              
     <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8 no-padding"> 
