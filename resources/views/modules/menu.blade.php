@@ -49,7 +49,7 @@
               </li>    
               -->                                      
               <li>
-               <a href="{!!url('tin-tuc')!!}" > Tin Tức </a>                    
+               <a href="{!!url('tin-tuc')!!}" > Kiến Thức </a>                    
               </li>                                            
             </ul>
              <ul class="nav navbar-nav pull-right">
