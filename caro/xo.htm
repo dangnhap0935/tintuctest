@@ -1,13 +1,8 @@
 <html>
 <head>
 	<title>Five in a Row</title>
-  <style>
-div.a {
-  width: auto;
-  border: 1px solid black;
-}
-</style>
-<meta content="width=device-width,  maximum-scale=1, user-scalable=yes" name="viewport">
+	<!--  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"> -->
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1" name="viewport">
 <meta name="title" content="">
 <META NAME="description" CONTENT="">
 <META NAME="keywords" CONTENT="">
@@ -41,9 +36,9 @@ openFour   =8888888;
 twoThrees  =7777777;
 
 if (document.images) {
- uImg=new Image(26,26); uImg.src='s'+userSq+'.gif';
- mImg=new Image(26,26); mImg.src='s'+machSq+'.gif';
- bImg=new Image(26,26); bImg.src='s0.gif';
+ uImg=new Image(16,16); uImg.src='s'+userSq+'.gif';
+ mImg=new Image(16,16); mImg.src='s'+machSq+'.gif';
+ bImg=new Image(16,16); bImg.src='s0.gif';
 }
 
 f=new Array();
@@ -119,7 +114,7 @@ function machineMove(iUser,jUser) {
  else {
   drawSquare(iMach,jMach,machSq);
  }
- if (winningPos(iMach,jMach,machSq)==winningMove) setTimeout("alert('I won!')",2900);
+ if (winningPos(iMach,jMach,machSq)==winningMove) setTimeout("alert('I won!')",900);
  else setTimeout("myTurn=false;",950);
 }
 
@@ -279,12 +274,12 @@ function writeBoard () {
  buf+='</head><body bgcolor="#FFFFFF"><a name="s"></a><center><pre';
  for (i=0;i<boardSize;i++) {
   for (j=0;j<boardSize;j++) {
-   buf+='\n><a href="#s" onClick="top.clk('+i+','+j+');if(top.ie4)this.blur();return false;" ><img name="s'+i+'_'+j+'" src="s'+f[i][j]+'.gif" width=26 height=26 border=0></a'; 
+   buf+='\n><a href="#s" onClick="top.clk('+i+','+j+');if(top.ie4)this.blur();return false;" ><img name="s'+i+'_'+j+'" src="s'+f[i][j]+'.gif" width=25 height=25 border=0></a'; 
   }
-  buf+='\n><img src="g.gif" width=1 height=26><br';
+  buf+='\n><img src="g.gif" width=1 height=25><br';
   if (buf.length>20000) {top.f1.document.writeln(buf); buf='';}
  }
- buf+='\n><img src="g.gif" width='+(boardSize*26+1)+' height=1></pre></center></body></html>';
+ buf+='\n><img src="g.gif" width='+(boardSize*25+1)+' height=1></pre></center></body></html>';
  top.f1.document.writeln(buf);
  top.f1.document.close();
  buf='';
@@ -323,15 +318,11 @@ onresize=function(){if(navigator.appName=="Netscape" && parseInt(navigator.appVe
 //-->
 </SCRIPT>
 </head>
-<div class="a">
-<frameset rows="230,*" frameborder="no" framespacing="0" border="0" onLoad="init()">
- <frame name=f0 src="button.htm" scrolling="auto">
 
+<frameset rows="230,*" frameborder="no" framespacing="0" border="0" onLoad="init()">
+ <frame name=f0 src="button.htm" scrolling="no">
  <frame name=f1 src="blank.htm"  scrolling="auto">
 </frameset>
-
-</div>
-<iframe data-aa="1434143" src="//ad.a-ads.com/1434143?size=728x90" scrolling="no" style="width:728px; height:90px; border:0px; padding:0; overflow:hidden" allowtransparency="true"></iframe>
 
 
 </html>
