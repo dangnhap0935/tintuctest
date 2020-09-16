@@ -50,7 +50,13 @@
               -->                                      
               <li>
                <a href="{!!url('tin-tuc')!!}" > Kiến Thức </a>                    
-              </li>                                            
+              </li>       
+              <li>
+               <a href="{!!url('tin-tuc')!!}" > Tin Tức </a>                    
+              </li>   
+              <li>
+               <a href="{!!url('tin-tuc')!!}" > Giải Trí </a>                    
+              </li>  
             </ul>
              <ul class="nav navbar-nav pull-right">
               {{-- <li><a href="{{ url('/admin/home') }}">Vào trang quản trị</a></li> --}}
