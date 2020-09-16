@@ -14,7 +14,7 @@
               <div class="row">
               <!-- hot new content -->
                 <div class="col-lg-12">
-                  <h1 class="title-h3"><a href="#" title="{!!$data->title!!}">{!!$data->title!!}</a></h1>
+                  <h1 class="title-h3" style="color: #ef2914;"><a href="#" title="{!!$data->title!!}">{!!$data->title!!}</a></h1>
                    <p class="time-views"> <span> Đăng bởi: </span> <strong>{!!$data->author!!}</strong> <strong> - 106 lượt xem</strong></p>
                   <img class="img-new" src="{!!url('/uploads/news/'.$data->images)!!}" alt="{!!$data->images!!}" >                  
                   <p class="summary-content">
