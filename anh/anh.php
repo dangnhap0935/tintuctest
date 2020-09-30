@@ -3,6 +3,7 @@
 <head>
 	<title>Người lạ gửi ảnh cho bạn</title>
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
+	<script data-ad-client="ca-pub-8784210033717367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 	
 	
 	
