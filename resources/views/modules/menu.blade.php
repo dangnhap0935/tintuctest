@@ -7,8 +7,9 @@
         </div>
       -->
         <div class="banner">
+        <center>
           <img src="../public/images/banner.png" alt="#" border="0"/>
-    
+    </center>
         </div>
       </div>
  <!-- main menu  navbar -->
