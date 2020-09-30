@@ -128,7 +128,8 @@ if (isset($hihi)){
 else
 {
 	echo'Không có ảnh';
-	die();
+	$hihi="https://znews-photo.zadn.vn/w1024/Uploaded/kbd_bcvi/2019_11_23/5d828d976f24eb1a752053b5.jpg";
+	#die();
 }  
 
 
