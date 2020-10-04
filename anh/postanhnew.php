@@ -224,7 +224,7 @@ if (isset($url)){
 }
 else{
     $hihi="Khôngcóảnh";
-	die();
+	#die();
 }
 ?>
 <script>
@@ -279,6 +279,15 @@ setTimeout("auto_sub()",0);
   </br></br></br></br>
  <center> <input type="submit" value="Hiển Thị Ảnh"></center>
 </form>
+
+<div id="SC_TBlock_801510" class="SC_TBlock">loading...</div> 
+<script type="text/javascript">
+  (sc_adv_out = window.sc_adv_out || []).push({
+    id : "801510",
+    domain : "n.ads1-adnow.com"
+  });
+</script>
+<script type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js" async></script>
 	<!--     
 </br></br>Nếu không xem được ảnh vui lòng click vào dự phòng để lấy link dự phòng</br>
 <form method="post" action="https://halochatvn.herokuapp.com/linkduphong.php">
