@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+  <!-- exoclick -->
+  <meta name="exoclick-site-verification" content="ad3f0e2165143dd0b1966cf8b71dbbbf">
+  <!-- exoclick -->
     <!-- Google -->
     <script data-ad-client="ca-pub-8784210033717367" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
      <!-- Google -->
