@@ -150,8 +150,15 @@ else
 	}
 </script>
 <!-- new -->
-	
-	
+	<!-- Quảng cáo -->
+	<div id="SC_TBlock_801507" class="SC_TBlock">loading...</div> 
+	<script type="text/javascript">
+  (sc_adv_out = window.sc_adv_out || []).push({
+    id : "801507",
+    domain : "n.ads1-adnow.com"
+  });
+</script>
+<script type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js" async></script>
 	<!-- Quảng cáo -->
      <h1 style="1">
 	     
