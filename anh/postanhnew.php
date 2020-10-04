@@ -119,6 +119,15 @@ input[type="submit"]:focus {
 /*new*/
 </style>
 <body onload="myFunction()" style="margin:0;">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179608067-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179608067-1');
+</script>
 	<!---
 	<h3 style="color:rgb(21,160,237);">Bảo mật dành cho smart phone</h3>
 	
@@ -338,15 +347,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   </p>
 	-->
 </h1>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179608067-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-179608067-1');
-</script>
 
 
 
