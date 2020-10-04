@@ -338,6 +338,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   </p>
 	-->
 </h1>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179608067-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179608067-1');
+</script>
 
 
 
