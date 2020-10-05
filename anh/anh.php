@@ -150,17 +150,18 @@ else
 	}
 </script>
 <!-- new -->
-	<!-- Quảng cáo banner -->
+	<!-- Quảng cáo hu mới - (Banner - -->
 	<script type="application/javascript">
-    var ad_idzone = "4017194",
-    ad_width = "300",
-    ad_height = "250"
+    var ad_idzone = "4017202",
+    ad_width = "728",
+    ad_height = "90"
 </script>
 <script type="application/javascript" src="https://a.exdynsrv.com/ads.js"></script>
 <noscript>
-    <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017194&output=noscript&type=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+    <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017202&output=noscript&type=728x90" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </noscript>
-	<!-- Quảng cáo banner -->
+	
+	
 	<!-- Quảng cáo qc Sticky Banner -->
 	<script type="application/javascript">
     var ad_idzone = "4017196",
@@ -196,6 +197,18 @@ else
       <br> People can talk with each other, send messages, photos, videos to each other and share their interesting stories.
     </small>
   </p>
+	
+	<!-- Quảng cáo banner -->
+	<script type="application/javascript">
+    var ad_idzone = "4017194",
+    ad_width = "300",
+    ad_height = "250"
+</script>
+<script type="application/javascript" src="https://a.exdynsrv.com/ads.js"></script>
+<noscript>
+    <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017194&output=noscript&type=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+</noscript>
+	<!-- Quảng cáo banner -->
 	<!-- Quảng cáo -->
 	<div id="SC_TBlock_801507" class="SC_TBlock">loading...</div> 
 	<script type="text/javascript">
