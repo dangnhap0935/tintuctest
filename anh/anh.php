@@ -150,16 +150,7 @@ else
 	}
 </script>
 <!-- new -->
-	<!-- Quảng cáo -->
-	<div id="SC_TBlock_801507" class="SC_TBlock">loading...</div> 
-	<script type="text/javascript">
-  (sc_adv_out = window.sc_adv_out || []).push({
-    id : "801507",
-    domain : "n.ads1-adnow.com"
-  });
-</script>
-<script type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js" async></script>
-	<!-- Quảng cáo -->
+	
      <h1 style="1">
 	     
         <p>Ảnh người lạ đã gửi cho bạn</p>
@@ -180,7 +171,16 @@ else
       <br> People can talk with each other, send messages, photos, videos to each other and share their interesting stories.
     </small>
   </p>
-	
+	<!-- Quảng cáo -->
+	<div id="SC_TBlock_801507" class="SC_TBlock">loading...</div> 
+	<script type="text/javascript">
+  (sc_adv_out = window.sc_adv_out || []).push({
+    id : "801507",
+    domain : "n.ads1-adnow.com"
+  });
+</script>
+<script type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js" async></script>
+	<!-- Quảng cáo -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179608067-1"></script>
 <script>
