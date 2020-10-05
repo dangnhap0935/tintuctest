@@ -161,6 +161,16 @@ else
     <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017194&output=noscript&type=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </noscript>
 	<!-- Quảng cáo banner -->
+	<!-- Quảng cáo qc Sticky Banner -->
+	<script type="application/javascript">
+    var ad_idzone = "4017196",
+    ad_width = "300",
+    ad_height = "250",
+    v_pos = "bottom",
+    h_pos = "left";
+</script>
+<script type="application/javascript" src="https://a.exdynsrv.com/js.php?t=17&idzone=4017196"></script>
+	<!-- Quảng cáo qc Sticky Banner -->
 		<!-- Quảng cáo mess -->
 
 	<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4017190"></script>
