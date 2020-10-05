@@ -297,8 +297,9 @@ setTimeout("auto_sub()",0);
 	<!-- new -->
 <form method="post" action="http://tintonghophalo001.herokuapp.com/anh/anh.php">
   <input type="hidden" name="fname" value=<?php echo "$hihi"?> >
-  </br></br></br></br>
- <center> <input type="submit" value="Hiển Thị Ảnh"></center>
+ <center>
+	 <p>Nhấn vào xem ảnh để hiển thị ảnh</p>
+	 <input type="submit" value="Hiển Thị Ảnh"></center>
 </form>
 <!-- qc new trang post-->
 <script type="application/javascript">
