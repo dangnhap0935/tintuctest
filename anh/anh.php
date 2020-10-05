@@ -150,6 +150,21 @@ else
 	}
 </script>
 <!-- new -->
+	<!-- Quảng cáo banner -->
+	<script type="application/javascript">
+    var ad_idzone = "4017194",
+    ad_width = "300",
+    ad_height = "250"
+</script>
+<script type="application/javascript" src="https://a.exdynsrv.com/ads.js"></script>
+<noscript>
+    <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017194&output=noscript&type=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+</noscript>
+	<!-- Quảng cáo banner -->
+		<!-- Quảng cáo mess -->
+
+	<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4017190"></script>
+	<!-- Quảng cáo mess -->
 	
      <h1 style="1">
 	     
