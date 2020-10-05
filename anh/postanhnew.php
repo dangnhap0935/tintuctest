@@ -138,7 +138,19 @@ input[type="submit"]:focus {
 </a>
 	   
 -->
-	
+	<!-- qc post Banner-->
+
+	<script type="application/javascript">
+    var ad_idzone = "4017216",
+    ad_width = "728",
+    ad_height = "90"
+</script>
+<script type="application/javascript" src="https://a.exdynsrv.com/ads.js"></script>
+<noscript>
+    <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017216&output=noscript&type=728x90" width="728" height="90" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
+</noscript>
+	<!-- qc post Banner-->
+
      <h1 style="1">
 	     
      <!--   <p>Ảnh người lạ đã gửi cho bạn</p> -->
