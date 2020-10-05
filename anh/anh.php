@@ -185,7 +185,7 @@ else
 	     
 <div style="display:none;" id="myDiv" class="animate-bottom" >
 	<!--     -->
-<img id="image" src= <?php echo "$hihi"?> >
+<img id="image" alt="#" src= <?php echo "$hihi"?> >
 <!--  -->
 </div>
 <!-- -->
