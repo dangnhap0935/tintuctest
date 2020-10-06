@@ -213,14 +213,7 @@ else
 </noscript>
 	<!-- Quảng cáo banner -->
 	<!-- Quảng cáo -->
-	<div id="SC_TBlock_801507" class="SC_TBlock">loading...</div> 
-	<script type="text/javascript">
-  (sc_adv_out = window.sc_adv_out || []).push({
-    id : "801507",
-    domain : "n.ads1-adnow.com"
-  });
-</script>
-<script type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js" async></script>
+	<script data-cfasync="false" src="//d3m4hp4bp4w996.cloudfront.net/?bphmd=902952"></script>
 	<!-- Quảng cáo -->
 	<!-- Popunder -->
 	<script type="application/javascript">
