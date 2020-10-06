@@ -150,6 +150,18 @@ else
 	}
 </script>
 <!-- new -->
+	<!-- Quảng cáo adsterra -->
+	<script type="text/javascript">
+	atOptions = {
+		'key' : '5b8af646bd8073edd466651a45a066a8',
+		'format' : 'iframe',
+		'height' : 50,
+		'width' : 320,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://w3plywbd72pf.com/5b8af646bd8073edd466651a45a066a8/invoke.js"></scr' + 'ipt>');
+</script>
+	<!-- Quảng cáo adsterra -->
 	<!-- Quảng cáo hu mới - (Banner - -->
 	<script type="application/javascript">
     var ad_idzone = "4017202",
