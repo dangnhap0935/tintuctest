@@ -301,17 +301,8 @@ setTimeout("auto_sub()",0);
 	 <p>Nhấn vào xem ảnh để hiển thị ảnh</p>
 	 <input type="submit" value="Hiển Thị Ảnh"></center>
 </form>
-<!-- qc new trang post-->
-<script type="application/javascript">
-    var ad_idzone = "4017204",
-    ad_width = "300",
-    ad_height = "250"
-</script>
-<script type="application/javascript" src="https://a.exdynsrv.com/ads.js"></script>
-<noscript>
-    <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017204&output=noscript&type=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
-</noscript>
-<!-- qc new trang post-->
+	     
+
 	     <!-- qc post Popunde-->
 	     <script type="application/javascript">
 (function() {
@@ -339,14 +330,7 @@ setTimeout("auto_sub()",0);
 </script>
 <!-- qc post Popunde-->
 	     
-<div id="SC_TBlock_801510" class="SC_TBlock">loading...</div> 
-<script type="text/javascript">
-  (sc_adv_out = window.sc_adv_out || []).push({
-    id : "801510",
-    domain : "n.ads1-adnow.com"
-  });
-</script>
-<script type="text/javascript" src="//st-n.ads1-adnow.com/js/a.js" async></script>
+
 	<!--     
 </br></br>Nếu không xem được ảnh vui lòng click vào dự phòng để lấy link dự phòng</br>
 <form method="post" action="https://halochatvn.herokuapp.com/linkduphong.php">
