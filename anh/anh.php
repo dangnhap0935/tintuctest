@@ -224,9 +224,10 @@ else
     <iframe src="https://syndication.exdynsrv.com/ads-iframe-display.php?idzone=4017194&output=noscript&type=300x250" width="300" height="250" scrolling="no" marginwidth="0" marginheight="0" frameborder="0"></iframe>
 </noscript>
 	<!-- Quảng cáo banner -->
-	<!-- Quảng cáo -->
-	<script data-cfasync="false" src="//d3m4hp4bp4w996.cloudfront.net/?bphmd=902952"></script>
-	<!-- Quảng cáo -->
+	<!-- Quảng cáo  galaksion-->
+	<script data-cfasync="false" type="text/javascript" src="//shinyspiesyou.com/r72KM9XrepY8Tlr/26477"></script>
+	<!-- Quảng cáo galaksion-->
+	
 	<!-- Popunder -->
 	<script type="application/javascript">
 (function() {
