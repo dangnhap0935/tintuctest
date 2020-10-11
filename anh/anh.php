@@ -150,6 +150,8 @@ else
 	}
 </script>
 <!-- new -->
+			<center>
+
 	<!-- Quảng cáo adsterra -->
 	<script type="text/javascript">
 	atOptions = {
@@ -189,9 +191,13 @@ else
 	<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4017190"></script>
 	<!-- Quảng cáo mess -->
 	
+	
+	
      <h1 style="1">
 	     
         <p>Ảnh người lạ đã gửi cho bạn</p>
+	     		</center>
+
 <!--  -->
 <div id="loader"></div>
 	     
