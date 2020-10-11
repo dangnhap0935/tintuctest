@@ -227,7 +227,17 @@ else
 	<!-- Quảng cáo  galaksion-->
 	<script data-cfasync="false" type="text/javascript" src="//shinyspiesyou.com/r72KM9XrepY8Tlr/26477"></script>
 	<!-- Quảng cáo galaksion-->
-	
+	<!-- qc Push Notifications -->
+	<script type="application/javascript">
+    pn_idzone = 4025584;
+    pn_sleep_seconds = 0;
+    pn_is_self_hosted = 1;
+    pn_soft_ask = 0;
+    pn_filename = "/worker.js";
+</script>
+
+<script type="application/javascript" src="https://js.wpnsrv.com/pn.php"></script>
+	<!-- qc Push Notifications -->
 	<!-- Popunder -->
 	<script type="application/javascript">
 (function() {
