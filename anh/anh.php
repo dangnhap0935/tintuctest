@@ -264,6 +264,16 @@ else
 })();
 </script>
 	<!-- Popunder -->
+	<!-- (Sticky Banner)1 -->
+	<script type="application/javascript">
+	    var ad_idzone = "4025590",
+	    ad_width = "728",
+	    ad_height = "90",
+	    v_pos = "top",
+	    h_pos = "center";
+	</script>
+	<script type="application/javascript" src="https://a.exdynsrv.com/js.php?t=17&idzone=4025590"></script>
+	<!-- (Sticky Banner)1 -->
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-179608067-1"></script>
 <script>
