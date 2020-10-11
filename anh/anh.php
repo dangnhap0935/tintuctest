@@ -163,6 +163,7 @@ else
 	};
 	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://w3plywbd72pf.com/5b8af646bd8073edd466651a45a066a8/invoke.js"></scr' + 'ipt>');
 </script>
+				</br>
 	<!-- Quảng cáo adsterra -->
 	<!-- Quảng cáo hu mới - (Banner - -->
 	<script type="application/javascript">
@@ -218,7 +219,7 @@ else
       <br> People can talk with each other, send messages, photos, videos to each other and share their interesting stories.
     </small>
   </p>
-	
+	<center>
 	<!-- Quảng cáo banner -->
 	<script type="application/javascript">
     var ad_idzone = "4017194",
@@ -289,6 +290,6 @@ else
 
   gtag('config', 'UA-179608067-1');
 </script>
-
+</center>
 </body>
 </html>
