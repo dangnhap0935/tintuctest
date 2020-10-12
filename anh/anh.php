@@ -5,10 +5,10 @@
 	<title>Người lạ gửi ảnh cho bạn</title>
 	<meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 	
-	<! - Ezoic Code ->
+	<!-- Ezoic Code -->
 <script> var ezoicId = 219893; </script>
 <script type = "text / javascript" src = "// go.ezoic.net/ezoic/ezoic.js"> </script>
-<! - Ezoic Code ->
+<!-- Ezoic Code -->
 	
 </head>
 
