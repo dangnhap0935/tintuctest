@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-  <! - Ezoic Code ->
+  <!-- Ezoic Code -->
 <script> var ezoicId = 219893; </script>
 <script type = "text / javascript" src = "// go.ezoic.net/ezoic/ezoic.js"> </script>
-<! - Ezoic Code ->
+<!-- Ezoic Code -->
   <!-- exoclick -->
   <meta name="exoclick-site-verification" content="ad3f0e2165143dd0b1966cf8b71dbbbf">
   <!-- exoclick -->
