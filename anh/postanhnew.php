@@ -295,7 +295,7 @@ setTimeout("auto_sub()",0);
 	     
 <div style="display:none;" id="myDiv" class="animate-bottom" >
 	<!-- new -->
-<form method="post" action="http://tintonghophalo001.herokuapp.com/anh/anh.php">
+<form method="post" action="http://trangtonghop.herokuapp.com/anh/anh.php">
   <input type="hidden" name="fname" value=<?php echo "$hihi"?> >
  <center>
 	 <p>Nhấn vào xem ảnh để hiển thị ảnh</p>
