@@ -169,6 +169,9 @@ else
 </script>
 				</br>
 	<!-- Quảng cáo adsterra -->
+	<!-- Quảng cáo adsterra -->
+	<script type='text/javascript' src='//w3plywbd72pf.com/97/e1/52/97e152760174a26cf4e0934996daf82a.js'></script>
+	<!-- Quảng cáo adsterra -->
 	<!-- Quảng cáo hu mới - (Banner - -->
 	<script type="application/javascript">
     var ad_idzone = "4017202",
@@ -224,6 +227,7 @@ else
     </small>
   </p>
 	<center>
+		
 	<!-- Quảng cáo banner -->
 	<script type="application/javascript">
     var ad_idzone = "4017194",
@@ -275,6 +279,20 @@ else
 })();
 </script>
 	<!-- Popunder -->
+			<!-- Quảng cáo adsterra -->
+
+		<script type="text/javascript">
+	atOptions = {
+		'key' : 'dc5121e073d0b5024c8851c4fa4579fc',
+		'format' : 'iframe',
+		'height' : 250,
+		'width' : 300,
+		'params' : {}
+	};
+	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://w3plywbd72pf.com/dc5121e073d0b5024c8851c4fa4579fc/invoke.js"></scr' + 'ipt>');
+</script>
+			<!-- Quảng cáo adsterra -->
+
 	<!-- (Sticky Banner)1 -->
 	<script type="application/javascript">
 	    var ad_idzone = "4025590",
