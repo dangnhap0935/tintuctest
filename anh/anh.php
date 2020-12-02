@@ -169,30 +169,8 @@ else
 </script>
 				</br>
 	<!-- Quảng cáo adsterra -->
-	<!-- Quảng cáo adsterra 0935 -->
-	<script type="text/javascript">
-	atOptions = {
-		'key' : '6562323333643736376331353636353566373833616536636136323461316139',
-		'format' : 'iframe',
-		'height' : 50,
-		'width' : 320,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://www.displaycontentprofit.com/6562323333643736376331353636353566373833616536636136323461316139/invoke.js"></scr' + 'ipt>');
-</script>
-	<!-- Quảng cáo adsterra 0935 -->
-	<!-- Quảng cáo adsterra -->
-	<script type="text/javascript">
-	atOptions = {
-		'key' : '4bf0e2ab2f639cd82b8e0cb09bafba81',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-	document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://w3plywbd72pf.com/4bf0e2ab2f639cd82b8e0cb09bafba81/invoke.js"></scr' + 'ipt>');
-</script>
-		<!-- Quảng cáo adsterra -->
+	
+	
 
 	<script type='text/javascript' src='//w3plywbd72pf.com/97/e1/52/97e152760174a26cf4e0934996daf82a.js'></script>
 	<!-- Quảng cáo adsterra -->
