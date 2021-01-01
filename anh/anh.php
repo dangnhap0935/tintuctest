@@ -179,10 +179,7 @@ else
 </script>
 <script type="application/javascript" src="https://a.exdynsrv.com/js.php?t=17&idzone=4017196"></script>
 	<!-- Quảng cáo qc Sticky Banner -->
-		<!-- Quảng cáo mess -->
-
-	<script type="application/javascript" src="https://syndication.exdynsrv.com/splash.php?idzone=4017190"></script>
-	<!-- Quảng cáo mess -->
+		
 	
 	
 	
